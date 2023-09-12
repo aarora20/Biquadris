@@ -1,0 +1,12 @@
+drop
+drop
+drop
+2ri
+drop
+drop
+6ri
+drop
+drop
+clockwise
+10ri
+drop
